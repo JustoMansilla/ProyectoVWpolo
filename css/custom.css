@@ -7,9 +7,20 @@
 	Note: This is custom css.
 
 **********************************************************************************/
-@font-face{
-	font-family: "rexona";
-	src: url(/fonts/RexonaCircularFF-Book.otf);
-	font-weight: normal;
-	font-style: normal;
-}
+
+@font-face {
+	font-family: vwbold;
+	src: url(/VW_Print_Head_Text/VW_Head/VWHead-Bold.otf);
+  }
+  
+
+  @font-face {
+	font-family: vwregular;
+	src: url(/VW_Print_Head_Text/VW_Text/VWText-Regular.otf);
+  }
+
+
+@font-face {
+	font-family: vwlight;
+	src: url(/VW_Print_Head_Text/VW_Text/VWText-Light.otf);
+  }
